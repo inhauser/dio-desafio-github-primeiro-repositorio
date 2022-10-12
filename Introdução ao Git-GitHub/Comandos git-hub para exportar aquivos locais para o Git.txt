@@ -1,0 +1,10 @@
+Comandos git-hub para exportar aquivos locais para o Git.
+1- Copiar url do repositório no Git.
+2- Git Bash Here.
+3- git status #para verificar se identificou arquivos/pasta.
+4- git add -A #para exportar todos os arquivos.
+5- git commmit -m "Inserir mensagem para identificarmos o commit que estamos fazendo"
+6- git status #para conferência das pendências para push
+7- git push origin main #para exportar tudo que foi comitado.
+
+
